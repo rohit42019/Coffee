@@ -1,0 +1,39 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Coffee</string>
+    <string name="Name">Name</string>
+    <string name="Topping">Topping</string>
+    <string name="WhippedCream">Whipped Cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Quantity">Quantity</string>
+    <string name="add_sign">+</string>
+    <string name="sub_sign">-</string>
+    <string name="mult_sign">*</string>
+    <string name="div_sign">/</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="Order_Summary">Order Summary</string>
+    <string name="TotalPrice">Total Price Rs. 50</string>
+    <string name="Order">Order</string>
+    <string name="max_limit">Maximum Limit Reached</string>
+    <string name="min_limit">Minimum Limit Reached</string>
+    <string name="map_location">geo:47.6,-122.3</string>
+    <string name="en">en</string>
+    <string name="IN">IN</string>
+    <string name="addedwhippedcream">Added a Whipped Cream? <xliff:g example="true" id="status">%s</xliff:g></string>
+    <string name="addedchocolate">Added Chocolate ? <xliff:g example="true" id="status">%s</xliff:g></string>
+    <string name="thank_you_name">Thank You! <xliff:g example="Rohit" id="name">%s</xliff:g></string>
+    <string name="TotalPrice2">Total Price is <xliff:g example="1" id="price">%s</xliff:g></string>
+    <string name="OrderSummaryName">Name : <xliff:g example="Rohit" id="name">%s</xliff:g></string>
+    <string name="quantity_number">Quantity : <xliff:g example="1" id="number">%d</xliff:g></string>
+    <string name="mailto">mailto:</string>
+    <string name="rohitmail">rohitrocks42019@gmail.com</string>
+    <string name="sending_order_summary">Sending Order Summary</string>
+    <string name="no_app_found">No Suitable App Found</string>
+</resources>
