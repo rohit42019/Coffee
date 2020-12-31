@@ -37,4 +37,6 @@
     <string name="TotalPrice2">" El precio total es <xliff:g id="price" example="1">%s</xliff:g>"</string>
     <string name="two">2</string>
     <string name="WhippedCream">" Crema batida"</string>
+    <string name="see_order_summary">Ver resumen del pedido</string>
+    <string name="rohit">Rohit</string>
 </resources>

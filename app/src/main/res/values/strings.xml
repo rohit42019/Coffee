@@ -36,4 +36,6 @@
     <string name="rohitmail">rohitrocks42019@gmail.com</string>
     <string name="sending_order_summary">Sending Order Summary</string>
     <string name="no_app_found">No Suitable App Found</string>
+    <string name="see_order_summary">See Order Summary</string>
+    <string name="rohit">Rohit</string>
 </resources>
